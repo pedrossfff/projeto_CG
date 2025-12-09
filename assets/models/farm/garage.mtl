@@ -1,0 +1,43 @@
+# Blender 5.0.0 MTL File: 'None'
+# www.blender.org
+
+newmtl crijep_krov
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd crijep_krov_BaseColor.png
+
+newmtl rine
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd rine_BaseColor.png
+
+newmtl stolarija_grede
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd stolarija_grede_BaseColor.png
+
+newmtl zid
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/valen/Downloads/garage/source/Garaza03/zid_BaseColor.png
+map_Bump -bm 1.000000 zid_Normal.png

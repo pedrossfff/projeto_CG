@@ -1,0 +1,44 @@
+# Tree materials – trunk + leaves
+
+# ---------- TRUNK MATERIALS (bark) ----------
+newmtl Material_0
+Ka 1.000 1.000 1.000
+Kd 0.800 0.800 0.800
+Ks 0.000 0.000 0.000
+d 1.0
+illum 2
+map_Kd tree_bark.png
+
+newmtl Material_1
+Ka 1.000 1.000 1.000
+Kd 0.800 0.800 0.800
+Ks 0.000 0.000 0.000
+d 1.0
+illum 2
+map_Kd tree_bark.png
+
+newmtl Material_2
+Ka 1.000 1.000 1.000
+Kd 0.800 0.800 0.800
+Ks 0.000 0.000 0.000
+d 1.0
+illum 2
+map_Kd tree_bark.png
+
+
+# ---------- LEAF MATERIALS ----------
+newmtl Material_3
+Ka 1.000 1.000 1.000
+Kd 0.800 0.800 0.800
+Ks 0.000 0.000 0.000
+d 1.0
+illum 2
+map_Kd tree_leaves.png
+
+newmtl Material_4
+Ka 1.000 1.000 1.000
+Kd 0.800 0.800 0.800
+Ks 0.000 0.000 0.000
+d 1.0
+illum 2
+map_Kd tree_leaves.png
